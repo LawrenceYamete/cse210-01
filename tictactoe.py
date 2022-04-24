@@ -1,11 +1,3 @@
-'''
-Tic-Tac-Toe: A Solution
-Author: Bro. Manley
-'''
-
-from operator import truediv
-
-
 def main():
     player = next_player("")
     board = create()
