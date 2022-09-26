@@ -9,7 +9,7 @@ def main():
     print("Good game. Thanks for playing!")
     play_again()
 
-
+    
 def play_again():
     again = input(f"Want to play again? y/n: ")
     if again == "y":
